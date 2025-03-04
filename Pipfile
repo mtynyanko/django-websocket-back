@@ -5,6 +5,10 @@ name = "pypi"
 
 [packages]
 django = "*"
+websockets = "*"
+psycopg2 = "*"
+python-dotenv = "*"
+psycopg2-binary = "*"
 
 [dev-packages]
 
